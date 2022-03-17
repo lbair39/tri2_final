@@ -1,4 +1,12 @@
-
+body {
+  background-color: rgb(241, 237, 237);
+}
+header {
+  text-align: center;
+  margin-left: 440px;
+  background:rgb(207, 204, 204);
+  width: 600px;
+}
 #thecloud {
     z-index: 3;
     margin-top: 10%;
