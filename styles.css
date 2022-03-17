@@ -267,3 +267,28 @@
  to {opacity: 1}
 }
 
+p{
+  border-left: solid 5px coral;
+  margin: 5px;
+  padding: 5px;
+  font-family: Kalam;
+}
+
+form{
+  text-align: center;
+  margin: 20px;
+
+
+}
+input{
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(240, 189, 157);
+  border-radius: 25px;
+
+}
+
+label{
+  font-family: Kalam;
+
+}
